@@ -1,6 +1,8 @@
 {
   "require": {
+    "craftcms/ckeditor": "1.0.0-beta.3",
     "craftcms/cms": "^3.5.10",
+    "doublesecretagency/craft-bootstrap": "4.1.3.1",
     "vlucas/phpdotenv": "^3.4.0"
   },
   "require-dev": {

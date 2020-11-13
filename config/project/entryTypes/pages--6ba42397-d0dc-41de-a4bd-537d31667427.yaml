@@ -1,0 +1,47 @@
+fieldLayouts:
+  f94387ac-85b1-4e86-8717-3b74ce7b47fc:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\EntryTitleField
+            warning: null
+            width: 100
+          -
+            fieldUid: 23af6534-fd40-4ddf-acd7-28e61d31d7f8
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Pages
+        sortOrder: 1
+handle: pages
+hasTitleField: true
+name: Pages
+section: bc455bc5-9419-4e19-8601-115d9aed4374
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

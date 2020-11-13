@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: f749853d-b474-46c6-8085-6639695611dd
+handle: blogIntroduction
+instructions: 'Short, one-line about the blog'
+name: 'Blog Introduction'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: 'Your blog introduction here.'
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

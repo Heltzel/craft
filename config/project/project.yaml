@@ -1,8 +1,17 @@
-dateModified: 1605286257
+dateModified: 1605291650
 email:
   fromEmail: test@mail.com
   fromName: motivation
   transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  bootstrap:
+    edition: standard
+    enabled: true
+    schemaVersion: 0.0.0
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
 system:
   edition: solo
   live: true

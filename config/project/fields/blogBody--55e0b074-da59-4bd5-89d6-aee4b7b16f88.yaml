@@ -1,0 +1,13 @@
+contentColumnType: text
+fieldGroup: f749853d-b474-46c6-8085-6639695611dd
+handle: blogBody
+instructions: 'The content of the blog.'
+name: 'Blog Body'
+searchable: false
+settings:
+  columnType: text
+  purifierConfig: ''
+  purifyHtml: '1'
+translationKeyFormat: null
+translationMethod: none
+type: craft\ckeditor\Field
